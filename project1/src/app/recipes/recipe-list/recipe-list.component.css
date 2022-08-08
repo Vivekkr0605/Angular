@@ -1,0 +1,16 @@
+a {
+    border: 1px solid;
+    padding: 20px;
+    width: 50%;
+}
+a:hover{
+    background-color: whitesmoke;
+}
+img {
+    padding-left: 20px;
+    border-radius: 20%;
+}
+.row{
+    padding-top: 20px;
+    padding-left: 5%;
+}
